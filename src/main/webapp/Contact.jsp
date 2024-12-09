@@ -8,5 +8,6 @@
 </head>
 <body>
 <h1>this is Contact page</h1>
+<a href="index.jsp">Index page</a>
 </body>
 </html>
